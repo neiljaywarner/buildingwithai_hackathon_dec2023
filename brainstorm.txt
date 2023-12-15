@@ -1,0 +1,25 @@
+initial ideas for prompts, idea is betweeen these lines and/or with history and commit diffs we can see how effective the prompts were, how long it took to come up with plan etc
+
+ "i have Few daytime commitments, hope for some weekend time
+“Make me an hour by hour plan for a 12 hour hackathon to make an an app that uses ai to analyze runs with manual input or input from strava; start time 11am today, presentation is 3pm Monday”
+Modify it tto plan to make a design document at the beginning with ai, a powerpoint presentation at the end with ai, and to allow time to evaluate https://junior.atomsbox.com/ and welltested.ai and 
+--Note: with bard it didn't understand the concept of it being 12 hours but being a hackathon, the title conflicted with the plan, i gave 12 hours in prompt and it put it in the title
+but it gave a plan with 16 hours when broken down by hour with 3 working lunches
+
+
+Note: this is sep 28th, 2023
+https://infinum.com/blog/chatgpt-flutter-app/
+He did not provide his source code or web app unfortunately 🙁
+https://codewithandrea.com/articles/dart-flutter-chatgpt/
+https://github.com/iampawan/ChatGPT-Flutter-AIChatBot
+https://pub.dev/packages/chat_gpt_sdk
+
+https://www.reddit.com/r/FlutterDev/comments/17r5w90/introducing_flutter_pro_gpt_knowledge/
+-uses chatgpt plus which does not have a trial period and requires $20 upfront
+Also see https://geekyants.com/blog/how-flutter-and-chatgpt-will-change-app-development/
+https://flutterawesome.com/junior-is-an-ai-pair-programmer-for-flutter-developers/
+
+Analyzing bard bc google fanboy, time permitting maybe try a few in chatgpt, but chatgpt is being used by flutter gpt.
+
+Research on the above list before 10am
+Had to pick up my son at 10:20 bc last day of school
