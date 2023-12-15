@@ -1,0 +1,27 @@
+rough score mostly during
+
+Non-engineering (admin, non coding, meta etc)
+----- Basic fails -----
+1. Bard: asked it to do a 12 hour plan and it came up with a 24 hour plan with working lunches, although of course the meta advice like "have fun", "be flexible" was great
+a. when i pointed out the issue  it did a pretty good job fixing except "lost" the monday 3pm presentation idea
+
+----- Surprise and delight -----
+1. When i lessened the timeframe from its original perception it simplified user scope by eliminating suggestion of injury prevention but only pace prediction or something.
+
+
+Notable capabilities
+1.Scheduling help
+
+engineering (admin, non coding, meta etc)
+----- Basic fails -----
+1. 
+
+----- Surprise and delight -----
+1.
+
+
+Notable capabilities
+1. Holistic planning, ie reminding us to relax adn be flexible and allow pivoting and have fun etc.
+
+
+
