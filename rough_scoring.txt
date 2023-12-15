@@ -11,6 +11,7 @@ a. when i pointed out the issue  it did a pretty good job fixing except "lost" t
 
 Notable capabilities
 1.Scheduling help
+2. seemed to handle scope well, conversion to just me, basic knowledge of figma for ux, etc not advancd knowledge like poweroint ai tool
 
 engineering (admin, non coding, meta etc)
 ----- Basic fails -----
@@ -19,9 +20,23 @@ engineering (admin, non coding, meta etc)
 ----- Surprise and delight -----
 1.
 
+confuse and annoy
+1. i asked it to switch the schedule from 8am, 9am type format to hour1, hour 2 format,it worked but then gave this suggestion "Bonus: Consider incorporating visual elements like progress bars or time-lapse graphs to effectively showcase the use of elapsed hours in your app.", conflating, intertwining unrelated concepts
+
 
 Notable capabilities
 1. Holistic planning, ie reminding us to relax adn be flexible and allow pivoting and have fun etc.
+
+Engineering
+basic fails
+
+surrpsie adn delight
+
+confuse and annoy
+
+notable capabilities
+
+
 
 
 
