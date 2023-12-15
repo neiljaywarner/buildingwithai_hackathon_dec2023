@@ -13,6 +13,15 @@ Notable capabilities
 1.Scheduling help
 2. seemed to handle scope well, conversion to just me, basic knowledge of figma for ux, etc not advancd knowledge like poweroint ai tool
 
+in between admin and coding tasks,power user, table generration etc
+Surprise and delight
+--> Basic goal: Success!, overall grade "B+" so far
+-- Basic fails
+1) I tried to ask it to change a single column with decimal value like "24.5" for a duration to "24:30" for hh:mm type format
+A) Format fail, changed nice looking html table to | | Tue | Cross-train | 30 minutes | N/A | +/- 10 | 2.4 | 32:24 |
+B) Much worse, inconsitent occasionally inaccurate conversion-> 32:24 *does* seem like 32.4 for day2, but day 1 definitely is wrong, 24.2 does *NOT* equaol 23:58
+
+
 engineering (admin, non coding, meta etc)
 ----- Basic fails -----
 1. 
